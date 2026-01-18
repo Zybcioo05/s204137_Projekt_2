@@ -17,20 +17,20 @@ o	Zbiornik Z3 działa jak bufor. Woda zaczyna lecieć do Z4 dopiero, gdy Z3 nape
 
 3. Instrukcja Obsługi Interfejsu
 A. Zawory (Interaktywne)
-•	Na rurach widoczne są symbole zaworów (kokardki).
-•	Kliknij myszką na zawór, aby go przełączyć.
-•	Zielony: Otwarty (woda płynie).
-•	Czerwony: Zamknięty (blokada przepływu, nawet jeśli pompa działa).
-B. Suwaki Poziomu (Górny suwak pod każdym zbiornikiem)
-•	Pozwalają ręcznie ustawić ilość wody w zbiorniku (0% - 100%).
-•	Suwaki te "żyją" – jeśli woda przepływa automatycznie, suwaki same się przesuwają, pokazując aktualny stan.
-C. Suwaki Temperatury (Dolny suwak pod każdym zbiornikiem)
-•	Ustawiają kolor wody w danym zbiorniku i w rurze, która z niego wychodzi.
-•	Lewo (20°C): Kolor niebieski.
-•	Prawo (100°C): Kolor czerwony.
-•	Wpływają też na to, czy grzałka wewnątrz zbiornika (przerywana linia) zmieni kolor na czerwony (aktywna > 50°C).
-D. Przycisk START / STOP
-•	Włącza lub zamraża czas w symulacji.
+•	Na rurach widoczne są symbole zaworów (kokardki).<br>
+•	Kliknij myszką na zawór, aby go przełączyć.<br>
+•	Zielony: Otwarty (woda płynie).<br>
+•	Czerwony: Zamknięty (blokada przepływu, nawet jeśli pompa działa).<br>
+B. Suwaki Poziomu (Górny suwak pod każdym zbiornikiem)<br>
+•	Pozwalają ręcznie ustawić ilość wody w zbiorniku (0% - 100%).<br>
+•	Suwaki te "żyją" – jeśli woda przepływa automatycznie, suwaki same się przesuwają, pokazując aktualny stan.<br>
+C. Suwaki Temperatury (Dolny suwak pod każdym zbiornikiem)<br>
+•	Ustawiają kolor wody w danym zbiorniku i w rurze, która z niego wychodzi.<br>
+•	Lewo (20°C): Kolor niebieski.<br>
+•	Prawo (100°C): Kolor czerwony.<br>
+•	Wpływają też na to, czy grzałka wewnątrz zbiornika (przerywana linia) zmieni kolor na czerwony (aktywna > 50°C).<br>
+D. Przycisk START / STOP<br>
+•	Włącza lub zamraża czas w symulacji.<br>
 
 4. Pompa (Automatyka)
 Pompa przy zbiorniku Z4 (Odbiór) działa w trybie automatycznym z histerezą:
