@@ -346,7 +346,7 @@ class EkranWizualizacji(QWidget):
 class GlowneOkno(QMainWindow):
     def __init__(self):
         super().__init__();
-        self.setWindowTitle("SCADA Final: Suwaki + Ciągły Przepływ")
+        self.setWindowTitle("Projekt SCADA")
         self.resize(1100, 900)
 
         self.tabs = QTabWidget();
